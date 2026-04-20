@@ -1,0 +1,7 @@
+# config.yaml
+
+dataset_path: data/cmapss
+window_size: 20
+health_threshold: 0.3
+max_rul: 150
+stream_delay_sec: 0.5
